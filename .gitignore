@@ -1,3 +1,7 @@
+# Keep the proposal local only; do not publish it
+立项申请书*.doc
+立项申请书*.docx
+
 # Office lock/temp files
 ~$*
 Thumbs.db
