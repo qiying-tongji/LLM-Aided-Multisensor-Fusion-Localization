@@ -1,0 +1,14 @@
+# Office lock/temp files
+~$*
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Nested clone metadata (keep local only)
+.git.bak/
+
+# Build and IDE caches
+**/build/
+**/.vs/
+**/.idea/
+*.user
